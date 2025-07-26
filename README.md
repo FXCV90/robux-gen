@@ -1,2 +1,3 @@
-# hacked
-click this to get an awesome reward 
+# Rpbux generator 
+Tries different roblox giftcard combinations until it finds a working code ( doesnt generate robux but gift cards)
+
